@@ -1,0 +1,18 @@
+html {
+	background-color: #2E3440;
+}
+body {
+	background-color: #434C5E;
+	color: #D8DEE9;
+	max-width: 1000px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #4C566A;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
